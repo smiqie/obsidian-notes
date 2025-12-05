@@ -728,3 +728,12 @@ const input = document.querySelector('input');
 console.log(input.dataset.mask); // "phone"
 console.log(input.dataset.region); // "ru"
 ```
+
+# `span`
+
+```html
+<p>Цена: <span class="price">1999₽</span></p>
+```
+
+- `span` - контейнер для строчных элементов
+- 💡 Если есть подходящий семантический тег (`<strong>`, `<em>`, `<mark>`, `<code>` и т.д.) - лучше использовать его вместо `<span>`
