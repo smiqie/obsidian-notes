@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML (Tags and Attributes).md",
+                "file": "CSS (Properties).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML (Tags and Attributes)"
+              "title": "CSS (Properties)"
             }
           }
         ],
@@ -267,8 +267,10 @@
   },
   "active": "968fd400b6055bda",
   "lastOpenFiles": [
-    "Web/At-rules.md",
+    "Web/At-rules (спосбы подключаения шрифтов - урок 6).md",
     "CSS (Properties).md",
+    "Web.md",
+    "Обобщенное.md",
     "CSS (Pseudo-classes).md",
     "HTML (Tags and Attributes).md",
     "HTML (Semantic).md",
@@ -281,8 +283,6 @@
     "Web/stuff/2. Семантические теги.md",
     "CSS.md",
     "JavaScript.md",
-    "Web.md",
-    "Обобщенное.md",
     "Site.md",
     "JavaScript - STUFF.md",
     "Web/stuff/9. Работа с текстом и стилями.md",
