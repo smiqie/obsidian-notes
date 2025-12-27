@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "CSS (Properties)"
             }
+          },
+          {
+            "id": "8148c12074ce0827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS (Properties).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS (Properties)"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -307,18 +321,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "92f31d232b96a2aa",
+  "active": "8148c12074ce0827",
   "lastOpenFiles": [
-    "assets/as.png",
+    "HTML (Semantic).md",
+    "CSS (Working with colors).md",
+    "CSS (Units. Relative and absolute units).md",
+    "CSS (Selectors, Cascade & Specificity).md",
+    "CSS (Pseudo-classes).md",
+    "CSS (Properties).md",
+    "Web/stuff/3. Мета-теги.md",
+    "Web/stuff/7. Работа с изображениями.md",
+    "Web/stuff/6. Работа с ссылками.md",
+    "Web/stuff/4. Работа со стилями.md",
+    "Web/stuff/8. Тег Div.md",
     "CSS (At-rules).md",
+    "Web/stuff/At-rules (спосбы подключаения шрифтов - урок 6).md",
+    "Web/stuff/2. Семантические теги.md",
+    "Web/stuff/9. Работа с текстом и стилями.md",
+    "Web/stuff/10. Border.md",
+    "assets/as.png",
     "JavaScript.md",
     "HTML (Tags and Attributes).md",
-    "HTML (Semantic).md",
-    "Web/At-rules (спосбы подключаения шрифтов - урок 6).md",
-    "CSS (Properties).md",
-    "CSS (Pseudo-classes).md",
-    "CSS (Working with colors).md",
-    "CSS (Selectors, Cascade & Specificity).md",
     "assets/styleInheritance.png",
     "assets/251227_13h43m29s_screenshot.png",
     "assets/fdg.png",
@@ -330,17 +353,9 @@
     "assets/251227_13h25m48s_screenshot.png",
     "Web.md",
     "Обобщенное.md",
-    "Web/stuff/3. Мета-теги.md",
-    "Web/stuff/4. Работа со стилями.md",
-    "Web/stuff/6. Работа с ссылками.md",
-    "Web/stuff/10. Border.md",
-    "Web/stuff/8. Тег Div.md",
-    "Web/stuff/7. Работа с изображениями.md",
-    "Web/stuff/2. Семантические теги.md",
     "CSS.md",
     "Site.md",
     "JavaScript - STUFF.md",
-    "Web/stuff/9. Работа с текстом и стилями.md",
     "Web/stuff/5. Работа со списками.md",
     "Web/stuff/1. Основы.md",
     "BEM methodology.md",
