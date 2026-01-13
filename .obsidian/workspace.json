@@ -321,8 +321,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8148c12074ce0827",
+  "active": "54fc4f8883bf6bf4",
   "lastOpenFiles": [
+    "assets/Pasted image 20260113111454.png",
     "HTML (Semantic).md",
     "CSS (Working with colors).md",
     "CSS (Units. Relative and absolute units).md",
@@ -358,7 +359,6 @@
     "JavaScript - STUFF.md",
     "Web/stuff/5. Работа со списками.md",
     "Web/stuff/1. Основы.md",
-    "BEM methodology.md",
     "GIT",
     "Web/stuff",
     "assets/box_model.png",
