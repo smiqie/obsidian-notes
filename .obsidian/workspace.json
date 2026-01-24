@@ -291,18 +291,30 @@
             "id": "7de4106332150d7a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/as.png"
+              },
+              "icon": "lucide-image",
+              "title": "as"
+            }
+          },
+          {
+            "id": "aa7bed0cc8d0b549",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "функции.md",
+                "file": "HTML - Accessability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "функции"
+              "title": "HTML - Accessability"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -447,44 +459,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "7de4106332150d7a",
+  "active": "aa7bed0cc8d0b549",
   "lastOpenFiles": [
-    "Pasted image 20260119054423.png",
-    "variables.md",
-    "функции.md",
-    "Pasted image 20260119050156.png",
-    "Pasted image 20260119050135.png",
-    "Pasted image 20260119050112.png",
-    "Pasted image 20260119050045.png",
-    "Pasted image 20260119045444.png",
-    "Pasted image 20260119044616.png",
-    "Pasted image 20260119044557.png",
-    "Pasted image 20260119044008.png",
-    "Вендорные префиксы. Директива @support.md",
-    "адаптивная верстка.md",
-    "Pasted image 20260119025238.png",
-    "Web/stuff/At-rules (спосбы подключаения шрифтов - урок 6).md",
+    "assets/as.png",
+    "HTML - Accessability.md",
     "CSS (At-rules).md",
+    "Untitled",
     "CSS (Properties).md",
-    "задачи йопта.md",
-    "рахное всякое.md",
-    "анимации ксс.md",
-    "Grid Layout.md",
     "CSS (Pseudo-classes).md",
-    "CSS pseudo-elements.md",
-    "Pasted image 20260117111451.png",
-    "HTML (Semantic).md",
-    "CSS (Working with colors).md",
-    "CSS (Units. Relative and absolute units).md",
     "CSS (Selectors, Cascade & Specificity).md",
+    "CSS (Working with colors).md",
+    "CSS pseudo-elements.md",
+    "HTML (Semantic).md",
+    "HTML (Tags and Attributes).md",
+    "JavaScript.md",
+    "Web.md",
+    "Обобщенное.md",
+    "веб - хлам не хлам/функции.md",
+    "веб - хлам не хлам/рахное всякое.md",
+    "веб - хлам не хлам/адаптивная верстка.md",
+    "веб - хлам не хлам/Grid Layout.md",
+    "веб - хлам не хлам/variables.md",
+    "веб - хлам не хлам/Pasted image 20260117111349.png",
+    "веб - хлам не хлам",
+    "веб - хлам не хлам/Pasted image 20260119025238.png",
+    "веб - хлам не хлам/Pasted image 20260119044616.png",
+    "веб - хлам не хлам/Pasted image 20260119050112.png",
+    "веб - хлам не хлам/Pasted image 20260119050156.png",
+    "веб - хлам не хлам/Pasted image 20260119054423.png",
+    "веб - хлам не хлам/Вендорные префиксы. Директива @support.md",
+    "веб - хлам не хлам/анимации ксс.md",
+    "веб - хлам не хлам/задачи йопта.md",
+    "Arch Linux/Untitled.md",
+    "assets/styleInheritance.png",
+    "assets/sourcesOfStyles.png",
+    "assets/Pasted image 20260113111454.png",
+    "assets/box_model.png",
+    "GIT/Untitled.md",
+    "Web/stuff/At-rules (спосбы подключаения шрифтов - урок 6).md",
+    "CSS (Units. Relative and absolute units).md",
     "Web/stuff/3. Мета-теги.md",
-    "Web/stuff/7. Работа с изображениями.md",
-    "Web/stuff/6. Работа с ссылками.md",
-    "Web/stuff/4. Работа со стилями.md",
-    "Web/stuff/8. Тег Div.md",
-    "Web/stuff/2. Семантические теги.md",
-    "Web/stuff/9. Работа с текстом и стилями.md",
-    "Web/stuff/10. Border.md",
     "assets/dsfds",
     "assets/styleInheritance",
     "assets/dsfds.part",
@@ -493,7 +507,6 @@
     "assets",
     "Untitled.base",
     "Untitled.canvas",
-    "Arch Linux",
-    "Web"
+    "Arch Linux"
   ]
 }
