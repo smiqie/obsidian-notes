@@ -153,6 +153,21 @@ button:focus-visible {
 - аналог `:focus`, но срабатывает **только** при клавиатурной навигации
 - решает проблему лишнего outline после клика мышью
 
+## `:focus-within`
+
+```css
+form:focus-within { 
+  box-shadow: 0 0 10px rgba(0,123,255,0.5); 
+}
+
+.search-container:focus-within {
+  border-color: blue;
+}
+```
+
+- срабатывает когда элемент **или любой из его потомков** находится в фокусе (нпр: подсветка всей формы при фокусе на любом поле ввода)
+- полезен для стилизации родительских контейнеров при фокусе на дочерних элементах
+
 ## `:active`
 
 ```css
@@ -254,3 +269,32 @@ input:checked {
 - настоящий `<input>` скрывается доступным способом (`.visually-hidden`)
 - стилизуется соседний элемент-«эмулятор» (`.checkbox-emulator`)
 - галочка показывается только при `:checked` через `.checkbox-control:not(:checked) + .checkbox-emulator::after`
+
+---
+## `:placeholder-shown`
+
+```css
+input:placeholder-shown {
+  border-color: gray;
+}
+
+input:not(:placeholder-shown) {
+  border-color: green;
+}
+
+/* Floating label эффект */
+.input-wrapper:has(input:placeholder-shown) label {
+  transform: translateY(0);
+  font-size: 1rem;
+}
+
+.input-wrapper:has(input:not(:placeholder-shown)) label {
+  transform: translateY(-1.5rem);
+  font-size: 0.75rem;
+}
+```
+
+- срабатывает когда в поле ввода **отображается** placeholder (т.е. поле пустое)
+	-  срабатывает только если у элемента есть атрибут `placeholder`
+- позволяет стилизовать поле в зависимости от наличия введённого текста
+	- полезен для создания floating labels или индикации заполненных полей
