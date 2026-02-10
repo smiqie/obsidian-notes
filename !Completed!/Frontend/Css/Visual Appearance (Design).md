@@ -404,10 +404,6 @@ filter: brightness(1.2) contrast(1.1) saturate(1.3);
 /* Размытый фон */
 .blur-background { filter: blur(10px); }
 
-/* Неоновый эффект */
-.neon:hover { filter: brightness(1.5) saturate(2) hue-rotate(45deg); }
-
-
 /* чёрно-белое изображение */
 .bw-image { filter: grayscale(100%); }
 
