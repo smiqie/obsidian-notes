@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "77d6a9611b719a7e",
+        "id": "10cd2c1b93919f37",
         "type": "tabs",
         "children": [
           {
-            "id": "542fad7c1f0a18d1",
+            "id": "8ff3af4ddc3910a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Process/Global Attributes.md",
+                "file": "Trash/джс/1Types casting & Types conversion (60 min).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Attributes"
+              "title": "1Types casting & Types conversion (60 min)"
             }
           }
         ]
-      },
-      {
-        "id": "cf0789263b6850fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42e3b009031291fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Process/HTML (Tags and Attributes).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML (Tags and Attributes)"
-            }
-          },
-          {
-            "id": "4bea8503546a1505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Process/Shared.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shared"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,53 +166,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "54fc4f8883bf6bf4",
+  "active": "8ff3af4ddc3910a7",
   "lastOpenFiles": [
-    "In Process/Global Attributes.md",
-    "In Process",
-    "Completed/Frontend/Html/Lists.md",
-    "In Process/Shared.md",
-    "In Process/HTML (Tags and Attributes).md",
-    "Completed/Frontend/Html/Links & Media.md",
-    "Completed/Frontend/Html/Tables.md",
-    "Completed/Frontend/Html/Forms.md",
-    "Completed/Frontend/Html/Text Content.md",
-    "Completed/Frontend/Html/Document Structure.md",
-    "Trash/шрифты.md",
-    "Trash/разное - хлам (разобрать).md",
-    "Trash/принципы веб разработки.md",
-    "traash yooooooooo/Обобщенное.md",
+    "Trash/джс/80min.md",
+    "Trash/джс/50 мин - операторы.md",
+    "Trash/джс/JavaScript.md",
+    "Trash/джс/от 20 минут до 40ка+.md",
+    "Trash/джс/20 минут+.md",
+    "Trash/джс/1Types casting & Types conversion (60 min).md",
+    "Trash/джс/лдаваскрипт.md",
+    "Trash/джс/Pasted image 20260302101402.png",
+    "Trash/джс/Pasted image 20260302101234.png",
+    "In Process/Grid Layout - ХЛАМ.md",
+    "In Process/Grid Layout.md",
+    "Trash/Pasted image 20260119054423.png",
+    "Trash/Pasted image 20260119025238.png",
+    "Trash/SASS SCSS Preprocessor.md",
     "Trash/Web.md",
-    "Trash/stuff/At-rules (спосбы подключаения шрифтов - урок 6).md",
-    "Trash/веб - хлам не хлам/функции.md",
-    "Trash/веб - хлам не хлам/рахное всякое.md",
-    "Trash/веб - хлам не хлам/задачи йопта.md",
-    "Trash/веб - хлам не хлам/variables.md",
-    "traash yooooooooo/stuff/4. Работа со стилями.md",
-    "Trash/stuff/КСС.md",
-    "traash yooooooooo/stuff/8. Тег Div.md",
-    "traash yooooooooo/stuff/6. Работа с ссылками.md",
-    "traash yooooooooo/stuff/3. Мета-теги.md",
-    "Trash/Base file.md",
-    "Completed/Frontend/Css/assets/sourcesOfStyles.png",
-    "Completed/Frontend/Css/assets/styleInheritance.png",
-    "Completed/Frontend/Css/assets/cursor.png",
-    "!Completed!/Frontend/Css/assets/12192a196d44a9a46929f60e89443733.png",
-    "Completed/Frontend/Css/assets/baseline.png",
-    "Completed/Frontend/Css/assets/overlay-context.png",
-    "Completed/Frontend/Css/assets/box-model.png",
-    "Completed/Frontend/Css/assets",
-    "лдавва",
+    "Trash/задачи йопта.md",
+    "Trash/КСС.md",
+    "Trash/шрифты.md",
+    "Trash/функции.md",
+    "Trash/разное - хлам (разобрать).md",
+    "Trash/рахное всякое.md",
+    "Trash/At-rules (спосбы подключаения шрифтов - урок 6).md",
+    "Trash/джс",
+    "1.png.md",
+    "Trash/empty/HTML - Accessability.md",
+    "Trash/empty/BEM Methodology.md",
+    "Trash/empty/at rules.md",
+    "Completed/Frontend/Web development principles.md",
+    "Trash/принципы веб разработки.md",
     "Trash/251228_15h00m05s_screenshot.png",
     "Trash/251228_14h57m25s_screenshot.png",
     "Trash/251228_14h56m31s_screenshot.png",
+    "Completed/Frontend/Css/Variables.md",
+    "Trash/веб - хлам не хлам/variables.md",
+    "Trash/веб - хлам не хлам/4.png",
+    "Trash/веб - хлам не хлам/2.png",
+    "Trash/веб - хлам не хлам/8.png",
+    "In Process",
+    "Completed/Frontend/Css/assets",
+    "лдавва",
     "!Completed!/Frontend/assets",
     "Untitled/3",
     "Untitled/2",
     "Untitled/1",
     "Trash/empty",
     "!Completed!/Arch Linux",
-    "Trash",
     "Untitled.canvas"
   ]
 }
