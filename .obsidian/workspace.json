@@ -6,52 +6,19 @@
       {
         "id": "3c89afd9fa611c5d",
         "type": "tabs",
-        "dimension": 47.956403269754766,
         "children": [
           {
             "id": "625a8960b6c22670",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c80abc6beac0e5e6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Completed/Frontend/Html/Text Content.md",
+                "file": "Trash/CODE REVIEW/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Text Content"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a5371876ad1134e8",
-        "type": "tabs",
-        "dimension": 52.043596730245234,
-        "children": [
-          {
-            "id": "8f84d02931417be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Completed/Frontend/Css/Display Types and Flexbox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Display Types and Flexbox"
+              "title": "2"
             }
           }
         ]
@@ -86,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "br",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,11 +166,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c80abc6beac0e5e6",
+  "active": "625a8960b6c22670",
   "lastOpenFiles": [
+    "Trash/CODE REVIEW/2.md",
+    "Trash/CODE REVIEW/1.md",
+    "Completed/Frontend/Html/Text Content.md",
+    "Trash/CODE REVIEW",
     "Completed/Frontend/Css/Pseudo-elements.md",
     "Completed/Frontend/Css/Selectors, Cascade & Specificity.md",
-    "Completed/Frontend/Html/Text Content.md",
     "Completed/Frontend/Css/Typography (Text Properties).md",
     "Completed/Frontend/Css/visually-hidden Class.md",
     "Completed/Frontend/Css/Working with colors.md",
@@ -226,8 +195,6 @@
     "Completed/Frontend/Css/Misc.md",
     "Completed/Frontend/Css/Media and embedded content.md",
     "Completed/Frontend/Css/Lists and tables.md",
-    "Completed/Frontend/Css/Interaction and behavior.md",
-    "Completed/Frontend/Css/Display Types and Flexbox.md",
     "Trash/Pasted image 20260119054423.png",
     "Trash/Pasted image 20260119025238.png",
     "Pasted image 20260309090756.png",
@@ -247,7 +214,6 @@
     "!Completed!/Frontend/assets",
     "Untitled/3",
     "Untitled/2",
-    "Untitled/1",
     "Untitled.canvas"
   ]
 }
