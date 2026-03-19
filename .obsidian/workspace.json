@@ -4,71 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "5f716fb859a4d34f",
+        "id": "3c89afd9fa611c5d",
         "type": "tabs",
-        "dimension": 49.93197278911565,
+        "dimension": 47.956403269754766,
         "children": [
           {
-            "id": "a7f24c08592a7483",
+            "id": "625a8960b6c22670",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "обхект DATe.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "обхект DATe"
+              "title": "New tab"
             }
           },
           {
-            "id": "74b618e313c9936e",
+            "id": "c80abc6beac0e5e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Completed/Frontend/Html/Text Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "22ce0aa4ce598238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Text Content"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "009589c8b7e83fc8",
+        "id": "a5371876ad1134e8",
         "type": "tabs",
-        "dimension": 50.06802721088436,
+        "dimension": 52.043596730245234,
         "children": [
           {
-            "id": "dd898796880d1cdc",
+            "id": "8f84d02931417be2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "работа со строками.md",
+                "file": "Completed/Frontend/Css/Display Types and Flexbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "работа со строками"
+              "title": "Display Types and Flexbox"
             }
           }
         ]
@@ -103,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "br",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,11 +107,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 387.5
   },
   "right": {
     "id": "e0767392cff9d256",
@@ -216,44 +200,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7f24c08592a7483",
+  "active": "c80abc6beac0e5e6",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
+    "Completed/Frontend/Css/Pseudo-elements.md",
+    "Completed/Frontend/Css/Selectors, Cascade & Specificity.md",
+    "Completed/Frontend/Html/Text Content.md",
+    "Completed/Frontend/Css/Typography (Text Properties).md",
+    "Completed/Frontend/Css/visually-hidden Class.md",
     "Completed/Frontend/Css/Working with colors.md",
+    "Trash/Base file.md",
+    "Completed/Frontend/Html/Tables.md",
+    "Completed/Frontend/Html/Semantic.md",
+    "Completed/Frontend/Html/Lists.md",
+    "Completed/Frontend/Html/Links & Buttons & Media.md",
+    "Completed/Frontend/Html/Forms.md",
+    "Completed/Frontend/Html/Document Structure.md",
+    "Completed/Frontend/Css/Visual Appearance (Design).md",
+    "Completed/Frontend/Css/Vendor-Prefixes.md",
+    "Completed/Frontend/Css/Variables.md",
+    "Completed/Frontend/Css/Values and units.md",
+    "Completed/Frontend/Css/Transforms.md",
+    "Completed/Frontend/Css/Responsive design.md",
+    "Completed/Frontend/Css/Pseudo-classes.md",
     "Completed/Frontend/Css/Positioning.md",
-    "Working with Strings.md",
-    "работа со строками.md",
-    "обхект DATe.md",
-    "Completed/Frontend/JavaScript/Switch Case.md",
-    "конструкция switch case.md",
-    "Trash/джс/JavaScript.md",
-    "Trash/джс/от 10го урока до....md",
-    "Completed/Frontend/JavaScript/Math Object.md",
-    "объект Math.md",
-    "раюота с числами.md",
-    "Completed/Frontend/JavaScript/Working with Numbers.md",
-    "Completed/Frontend/JavaScript/Type Conversion.md",
-    "конвертирвоание.md",
-    "Trash/джс/50 мин - операторы.md",
-    "Trash/джс/от 20 минут до 40ка+.md",
-    "Trash/джс/лдаваскрипт.md",
-    "Trash/джс/1Types casting & Types conversion (60 min).md",
-    "Pasted image 20260309091247.png",
+    "Completed/Frontend/Css/Misc.md",
+    "Completed/Frontend/Css/Media and embedded content.md",
+    "Completed/Frontend/Css/Lists and tables.md",
+    "Completed/Frontend/Css/Interaction and behavior.md",
+    "Completed/Frontend/Css/Display Types and Flexbox.md",
+    "Trash/Pasted image 20260119054423.png",
+    "Trash/Pasted image 20260119025238.png",
     "Pasted image 20260309090756.png",
     "Pasted image 20260309090501.png",
     "Pasted image 20260309090011.png",
-    "Completed/Frontend/JavaScript/Data types.md",
-    "типы данных.md",
-    "работа с перемнными.md",
-    "Completed/Frontend/JavaScript/Variables.md",
-    "Trash/джс/Условные конструкции.md",
-    "Completed/Frontend/JavaScript",
-    "Completed/Frontend/JavaScript",
     "Trash/джс/Pasted image 20260302101402.png",
     "Trash/джс/Pasted image 20260302101234.png",
-    "Trash/Pasted image 20260119054423.png",
-    "Trash/Pasted image 20260119025238.png",
+    "Pasted image 20260309091247.png",
+    "Completed/Frontend/JavaScript",
+    "Completed/Frontend/JavaScript",
     "Trash/джс",
     "Trash/251228_15h00m05s_screenshot.png",
     "Trash/251228_14h57m25s_screenshot.png",
