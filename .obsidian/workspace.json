@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trash/CODE REVIEW/2.md",
+                "file": "Completed/Frontend/Css/Base file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "Base file"
             }
           }
         ]
@@ -166,8 +166,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "625a8960b6c22670",
+  "active": "54fc4f8883bf6bf4",
   "lastOpenFiles": [
+    "Trash/JavaScript.md",
+    "Completed/Frontend/Css/Base file.md",
+    "Trash/At-rules (спосбы подключаения шрифтов - урок 6).md",
     "Trash/CODE REVIEW/2.md",
     "Trash/CODE REVIEW/1.md",
     "Completed/Frontend/Html/Text Content.md",
@@ -177,7 +180,6 @@
     "Completed/Frontend/Css/Typography (Text Properties).md",
     "Completed/Frontend/Css/visually-hidden Class.md",
     "Completed/Frontend/Css/Working with colors.md",
-    "Trash/Base file.md",
     "Completed/Frontend/Html/Tables.md",
     "Completed/Frontend/Html/Semantic.md",
     "Completed/Frontend/Html/Lists.md",
@@ -193,8 +195,6 @@
     "Completed/Frontend/Css/Pseudo-classes.md",
     "Completed/Frontend/Css/Positioning.md",
     "Completed/Frontend/Css/Misc.md",
-    "Completed/Frontend/Css/Media and embedded content.md",
-    "Completed/Frontend/Css/Lists and tables.md",
     "Trash/Pasted image 20260119054423.png",
     "Trash/Pasted image 20260119025238.png",
     "Pasted image 20260309090756.png",
