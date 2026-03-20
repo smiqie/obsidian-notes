@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c89afd9fa611c5d",
+        "id": "5ae56b5c07b27c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "625a8960b6c22670",
+            "id": "8d19d4722a57206c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Completed/Frontend/Css/Base file.md",
+                "file": "js arrays/js arrays - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base file"
+              "title": "js arrays - 1"
             }
           }
         ]
@@ -166,10 +166,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "54fc4f8883bf6bf4",
+  "active": "8d19d4722a57206c",
   "lastOpenFiles": [
+    "js loops/js - loops 1.md",
+    "js loops",
     "Trash/JavaScript.md",
-    "Completed/Frontend/Css/Base file.md",
+    "js arrays/js arrays - 1.md",
+    "js objects/js - objects.md",
+    "js arrays",
+    "js objects",
+    "js - function (1)/JS - function 33.md",
+    "js - function (1)/JS function 7.md",
+    "js - function (1)/JS - functions 5.md",
+    "js - function (1)/JS - functions 4.md",
+    "js - function (1)/js function 8.md",
+    "js - function (1)",
+    "js - function (1)/JS - functions 2.md",
+    "js - function (1)/JS - functions 1.md",
+    "js - function (1)/JS - functions 3.md",
+    "Completed/Frontend/Css/Base CSS (Reset & Normalize).md",
     "Trash/At-rules (спосбы подключаения шрифтов - урок 6).md",
     "Trash/CODE REVIEW/2.md",
     "Trash/CODE REVIEW/1.md",
@@ -183,18 +198,6 @@
     "Completed/Frontend/Html/Tables.md",
     "Completed/Frontend/Html/Semantic.md",
     "Completed/Frontend/Html/Lists.md",
-    "Completed/Frontend/Html/Links & Buttons & Media.md",
-    "Completed/Frontend/Html/Forms.md",
-    "Completed/Frontend/Html/Document Structure.md",
-    "Completed/Frontend/Css/Visual Appearance (Design).md",
-    "Completed/Frontend/Css/Vendor-Prefixes.md",
-    "Completed/Frontend/Css/Variables.md",
-    "Completed/Frontend/Css/Values and units.md",
-    "Completed/Frontend/Css/Transforms.md",
-    "Completed/Frontend/Css/Responsive design.md",
-    "Completed/Frontend/Css/Pseudo-classes.md",
-    "Completed/Frontend/Css/Positioning.md",
-    "Completed/Frontend/Css/Misc.md",
     "Trash/Pasted image 20260119054423.png",
     "Trash/Pasted image 20260119025238.png",
     "Pasted image 20260309090756.png",
@@ -210,10 +213,6 @@
     "Trash/251228_14h57m25s_screenshot.png",
     "In Process",
     "Completed/Frontend/Css/assets",
-    "лдавва",
-    "!Completed!/Frontend/assets",
-    "Untitled/3",
-    "Untitled/2",
     "Untitled.canvas"
   ]
 }
