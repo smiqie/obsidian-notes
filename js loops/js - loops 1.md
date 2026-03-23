@@ -157,9 +157,18 @@ for(let i = 0; i < array.length; i++){
 
 - букву вложенного ыицкла обычно называют `j` or `k`
 
+## FOR OF
 
+```js
+const colors = ['red', 'green', 'blue'];
 
+for (const color of colors) {
+  console.log(color); 
+}
+// Вывод: red, green, blue
+```
 
+- ????
 
 
 
