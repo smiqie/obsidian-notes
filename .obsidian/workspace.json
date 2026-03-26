@@ -4,61 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae56b5c07b27c0a",
+        "id": "a3cb821afcfd49c9",
         "type": "tabs",
-        "dimension": 50.47683923705723,
         "children": [
           {
-            "id": "8d19d4722a57206c",
+            "id": "3d1da1cd828f43d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js arrays/js arrays - 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js arrays - 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "26a589ca06f93506",
-        "type": "tabs",
-        "dimension": 49.52316076294278,
-        "children": [
-          {
-            "id": "109eadb3258abb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arraysvxcxcv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arraysvxcxcv"
+              "title": "Untitled"
             }
           },
           {
-            "id": "8c952e0a1dd37b94",
+            "id": "dca018d195b9a10b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays.md",
+                "file": "Trash/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "JavaScript"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 377.5
   },
   "right": {
     "id": "e0767392cff9d256",
@@ -203,11 +180,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c952e0a1dd37b94",
+  "active": "3d1da1cd828f43d1",
   "lastOpenFiles": [
-    "js arrays/js arrays - 1.md",
-    "Arrays.md",
+    "Trash/JavaScript.md",
     "Untitled.md",
+    "Completed/Frontend/JavaScript/Scope Callstack.md",
+    "js - function (1)/JS function 7.md",
+    "js - function (1)/js function 8.md",
+    "js - function (1)/JS - functions 3.md",
+    "Completed/Frontend/JavaScript/Functions - Callbacks.md",
+    "js - function (1)/JS - functions 4.md",
+    "js - function (1)/JS - functions 5.md",
+    "Completed/Frontend/JavaScript/Functions Types.md",
+    "js - function (1)/JS - functions 2.md",
+    "Completed/Frontend/JavaScript/Functions - Basics.md",
+    "js - function (1)/JS - function 33.md",
+    "js - function (1)/JS - functions 1.md",
+    "Completed/Frontend/JavaScript/Arrays.md",
+    "js arrays/js arrays - 1.md",
     "Arraysvxcxcv.md",
     "Completed/Frontend/JavaScript/Working with Numbers.md",
     "Completed/Frontend/JavaScript/Working with Strings.md",
@@ -216,26 +206,13 @@
     "Completed/Frontend/JavaScript/Loops.md",
     "js loops/js - loops 1.md",
     "js loops",
-    "Trash/JavaScript.md",
     "js arrays",
     "js objects",
-    "js - function (1)/JS - function 33.md",
-    "js - function (1)/JS function 7.md",
-    "js - function (1)/JS - functions 5.md",
-    "js - function (1)/JS - functions 4.md",
-    "js - function (1)/js function 8.md",
     "js - function (1)",
-    "js - function (1)/JS - functions 2.md",
-    "js - function (1)/JS - functions 1.md",
-    "js - function (1)/JS - functions 3.md",
     "Completed/Frontend/Css/Base CSS (Reset & Normalize).md",
     "Trash/At-rules (спосбы подключаения шрифтов - урок 6).md",
     "Trash/CODE REVIEW/2.md",
-    "Trash/CODE REVIEW/1.md",
-    "Completed/Frontend/Html/Text Content.md",
     "Trash/CODE REVIEW",
-    "Completed/Frontend/Css/Pseudo-elements.md",
-    "Completed/Frontend/Css/Selectors, Cascade & Specificity.md",
     "Trash/Pasted image 20260119054423.png",
     "Trash/Pasted image 20260119025238.png",
     "Pasted image 20260309090756.png",
