@@ -133,6 +133,28 @@ switch (true) {
 }
 ```
 
+## Пример 3
+
+```js
+switch (true) {
+    case (age >= 0 && age <= 12):
+        console.log("Ребёнок");
+        break;
+    case (age >= 13 && age <= 17):
+        console.log("Подросток");
+        break;
+    case (age >= 18 && age <= 64):
+        console.log("Взрослый");
+        break;
+    case (age >= 65):
+        console.log("Пожилой человек");
+        break;
+    default:
+        console.log("Некорректный ввод");
+        break;
+}
+```
+
 # Почему `switch(true)` для диапазонов?
 
 **Как работает `switch`:**
