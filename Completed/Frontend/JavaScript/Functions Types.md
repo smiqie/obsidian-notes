@@ -55,10 +55,14 @@ const greet = function(name) {
 };
 greet("Max");
 
-// ===============================
-// кладём функцию в переменную как ссылку
+// =============================== доп.
+// кладём функцию в переменную как ссылку (ЭТО НЕ Function Expression!)
 const log = console.log; 
 log("test");
+// =============================== доп.
+
+const myFunc = function() { ... }; // Function Expression
+const myArrow = () => { ... };    // Arrow Function Expression
 ```
 
 - **Описание:** функция записывается как выражение и присваивается переменной
@@ -90,7 +94,7 @@ greet2 = function() { return "Hello"; }; // ✅ с let можно
 
 ---
 
-# Arrow Function - современный и удобный подход
+# Arrow Function - современный и удобный подход (ES6+)
 
 ```js
 const greet = (name) => {
