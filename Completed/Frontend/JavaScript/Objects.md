@@ -332,10 +332,18 @@ const person = {
 
 console.log("age" in person);  // true
 console.log("city" in person); // false
+
+
+const user = { id: undefined };
+// ВАЖНО:
+console.log("id" in user);          // true  — ключ существует ("ящик есть")
+console.log(user.id !== undefined); // false — значение пустое ("в ящике пусто")
 ```
 
 - **Синтаксис:** `"ключ" in объект`
 - **Возвращает:** `true` или `false`
+- **Важно:** Оператор in проверяет факт наличия ключа (даже если там лежит undefined), а !== undefined проверяет только наличие данных
+	- использовать in - если важно знать существует ли свойство в принципе, и использовать !== undefined - если просто нужно убедиться, что свойство не пустое 
 
 ---
 
